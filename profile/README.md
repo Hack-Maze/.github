@@ -74,4 +74,4 @@ Under the supervision of **Prof. Dr. Omnia El-barbary**.
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
+This project is licensed under the MIT License. See the [LICENSE](../LICENSE) file for more information.
